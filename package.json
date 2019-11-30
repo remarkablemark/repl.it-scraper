@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "clean": "rm output/*.json"
   },
   "dependencies": {
     "chromedriver": "78.0.1",
