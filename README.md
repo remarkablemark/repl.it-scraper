@@ -2,6 +2,10 @@
 
 [Repl.it](https://repl.it/) scraper built with [WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ([Selenium](https://www.seleniumhq.org/) for [Node.js](https://nodejs.org/)).
 
+Initial code from [`webdriverjs-recipes`](https://github.com/remarkablemark/webdriverjs-recipes).
+
+Used by [Random Repl](https://repl.it/talk/share/Random-Repl/23297).
+
 ## Prerequisites
 
 - [Node.js 12+](https://nodejs.org/en/download/)
