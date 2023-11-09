@@ -4,7 +4,7 @@
     "clean": "rm output/*.json"
   },
   "dependencies": {
-    "chromedriver": "78.0.1",
+    "chromedriver": "119.0.1",
     "selenium-webdriver": "4.0.0-alpha.5"
   },
   "engines": {
